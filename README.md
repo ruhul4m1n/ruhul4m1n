@@ -2,7 +2,7 @@
 
 # Hi, I'm ruhul4m1n 👋
 
-### AI / ML Engineering
+### AI / ML Engineer
 
 **From data to models. From experiments to useful applications.**
 
